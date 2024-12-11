@@ -4,6 +4,7 @@
 
 This is a **Pomodoro Timer** built with Python using the Tkinter library, designed to help users manage their work and break periods based on the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique). The project showcases key programming concepts such as Object-Oriented Programming (OOP), GUI development, and time-based functionality.
 
+
 ## Features
 
 - **Timer Functionality**: Start a countdown for work or break periods, with the ability to reset the timer.
@@ -11,6 +12,8 @@ This is a **Pomodoro Timer** built with Python using the Tkinter library, design
 - **Break Management**: Switch between work sessions, short breaks, and long breaks based on the Pomodoro Technique (25 minutes of work followed by short breaks and long breaks after several work sessions).
 - **Work Session Tracking**: Track the number of completed work sessions with checkmarks that appear after each work session.
 - **Start/Reset Buttons**: Control the timer through a simple Start button, and reset the timer when needed.
+
+![Pomodoro Timer](pomodoro_app.PNG)
 
 ## Requirements
 
